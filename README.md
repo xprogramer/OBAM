@@ -9,7 +9,6 @@ The first version of the corpus contains 4,072 texts written in code-switched Ba
 | normal    |  2,835 |
 | offensive |   695  | 
 | abusive   |   541  |
-| --------- | -------|
 | Total     |  4,072 |
 
 Please, cite the following article for research purpose:
